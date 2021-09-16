@@ -238,6 +238,6 @@ d3.json(tectonicPlates).then(function(tplatesdata) {
 // Then we add the earthquake layer to our map.
 alltectonicPlates.addTo(map);
 });  // end of d3.json(tectonicPlates).then(function(data)
-// Delivaravle 1 starts
+// Delivaravle 1 end here
   
 });
